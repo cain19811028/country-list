@@ -1,258 +1,1023 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-	<AF>Afghanistan</AF>
-	<AX>Åland Islands</AX>
-	<AL>Albania</AL>
-	<DZ>Algeria</DZ>
-	<AS>American Samoa</AS>
-	<AD>Andorra</AD>
-	<AO>Angola</AO>
-	<AI>Anguilla</AI>
-	<AQ>Antarctica</AQ>
-	<AG>Antigua & Barbuda</AG>
-	<AR>Argentina</AR>
-	<AM>Armenia</AM>
-	<AW>Aruba</AW>
-	<AC>Ascension Island</AC>
-	<AU>Australia</AU>
-	<AT>Austria</AT>
-	<AZ>Azerbaijan</AZ>
-	<BS>Bahamas</BS>
-	<BH>Bahrain</BH>
-	<BD>Bangladesh</BD>
-	<BB>Barbados</BB>
-	<BY>Belarus</BY>
-	<BE>Belgium</BE>
-	<BZ>Belize</BZ>
-	<BJ>Benin</BJ>
-	<BM>Bermuda</BM>
-	<BT>Bhutan</BT>
-	<BO>Bolivia</BO>
-	<BA>Bosnia & Herzegovina</BA>
-	<BW>Botswana</BW>
-	<BR>Brazil</BR>
-	<IO>British Indian Ocean Territory</IO>
-	<VG>British Virgin Islands</VG>
-	<BN>Brunei</BN>
-	<BG>Bulgaria</BG>
-	<BF>Burkina Faso</BF>
-	<BI>Burundi</BI>
-	<KH>Cambodia</KH>
-	<CM>Cameroon</CM>
-	<CA>Canada</CA>
-	<IC>Canary Islands</IC>
-	<CV>Cape Verde</CV>
-	<BQ>Caribbean Netherlands</BQ>
-	<KY>Cayman Islands</KY>
-	<CF>Central African Republic</CF>
-	<EA>Ceuta & Melilla</EA>
-	<TD>Chad</TD>
-	<CL>Chile</CL>
-	<CN>China</CN>
-	<CX>Christmas Island</CX>
-	<CC>Cocos (Keeling) Islands</CC>
-	<CO>Colombia</CO>
-	<KM>Comoros</KM>
-	<CG>Congo - Brazzaville</CG>
-	<CD>Congo - Kinshasa</CD>
-	<CK>Cook Islands</CK>
-	<CR>Costa Rica</CR>
-	<CI>Côte d’Ivoire</CI>
-	<HR>Croatia</HR>
-	<CU>Cuba</CU>
-	<CW>Curaçao</CW>
-	<CY>Cyprus</CY>
-	<CZ>Czechia</CZ>
-	<DK>Denmark</DK>
-	<DG>Diego Garcia</DG>
-	<DJ>Djibouti</DJ>
-	<DM>Dominica</DM>
-	<DO>Dominican Republic</DO>
-	<EC>Ecuador</EC>
-	<EG>Egypt</EG>
-	<SV>El Salvador</SV>
-	<GQ>Equatorial Guinea</GQ>
-	<ER>Eritrea</ER>
-	<EE>Estonia</EE>
-	<ET>Ethiopia</ET>
-	<EZ>Eurozone</EZ>
-	<FK>Falkland Islands</FK>
-	<FO>Faroe Islands</FO>
-	<FJ>Fiji</FJ>
-	<FI>Finland</FI>
-	<FR>France</FR>
-	<GF>French Guiana</GF>
-	<PF>French Polynesia</PF>
-	<TF>French Southern Territories</TF>
-	<GA>Gabon</GA>
-	<GM>Gambia</GM>
-	<GE>Georgia</GE>
-	<DE>Germany</DE>
-	<GH>Ghana</GH>
-	<GI>Gibraltar</GI>
-	<GR>Greece</GR>
-	<GL>Greenland</GL>
-	<GD>Grenada</GD>
-	<GP>Guadeloupe</GP>
-	<GU>Guam</GU>
-	<GT>Guatemala</GT>
-	<GG>Guernsey</GG>
-	<GN>Guinea</GN>
-	<GW>Guinea-Bissau</GW>
-	<GY>Guyana</GY>
-	<HT>Haiti</HT>
-	<HN>Honduras</HN>
-	<HK>Hong Kong SAR China</HK>
-	<HU>Hungary</HU>
-	<IS>Iceland</IS>
-	<IN>India</IN>
-	<ID>Indonesia</ID>
-	<IR>Iran</IR>
-	<IQ>Iraq</IQ>
-	<IE>Ireland</IE>
-	<IM>Isle of Man</IM>
-	<IL>Israel</IL>
-	<IT>Italy</IT>
-	<JM>Jamaica</JM>
-	<JP>Japan</JP>
-	<JE>Jersey</JE>
-	<JO>Jordan</JO>
-	<KZ>Kazakhstan</KZ>
-	<KE>Kenya</KE>
-	<KI>Kiribati</KI>
-	<XK>Kosovo</XK>
-	<KW>Kuwait</KW>
-	<KG>Kyrgyzstan</KG>
-	<LA>Laos</LA>
-	<LV>Latvia</LV>
-	<LB>Lebanon</LB>
-	<LS>Lesotho</LS>
-	<LR>Liberia</LR>
-	<LY>Libya</LY>
-	<LI>Liechtenstein</LI>
-	<LT>Lithuania</LT>
-	<LU>Luxembourg</LU>
-	<MO>Macau SAR China</MO>
-	<MK>Macedonia</MK>
-	<MG>Madagascar</MG>
-	<MW>Malawi</MW>
-	<MY>Malaysia</MY>
-	<MV>Maldives</MV>
-	<ML>Mali</ML>
-	<MT>Malta</MT>
-	<MH>Marshall Islands</MH>
-	<MQ>Martinique</MQ>
-	<MR>Mauritania</MR>
-	<MU>Mauritius</MU>
-	<YT>Mayotte</YT>
-	<MX>Mexico</MX>
-	<FM>Micronesia</FM>
-	<MD>Moldova</MD>
-	<MC>Monaco</MC>
-	<MN>Mongolia</MN>
-	<ME>Montenegro</ME>
-	<MS>Montserrat</MS>
-	<MA>Morocco</MA>
-	<MZ>Mozambique</MZ>
-	<MM>Myanmar (Burma)</MM>
-	<NA>Namibia</NA>
-	<NR>Nauru</NR>
-	<NP>Nepal</NP>
-	<NL>Netherlands</NL>
-	<NC>New Caledonia</NC>
-	<NZ>New Zealand</NZ>
-	<NI>Nicaragua</NI>
-	<NE>Niger</NE>
-	<NG>Nigeria</NG>
-	<NU>Niue</NU>
-	<NF>Norfolk Island</NF>
-	<KP>North Korea</KP>
-	<MP>Northern Mariana Islands</MP>
-	<NO>Norway</NO>
-	<OM>Oman</OM>
-	<PK>Pakistan</PK>
-	<PW>Palau</PW>
-	<PS>Palestinian Territories</PS>
-	<PA>Panama</PA>
-	<PG>Papua New Guinea</PG>
-	<PY>Paraguay</PY>
-	<PE>Peru</PE>
-	<PH>Philippines</PH>
-	<PN>Pitcairn Islands</PN>
-	<PL>Poland</PL>
-	<PT>Portugal</PT>
-	<PR>Puerto Rico</PR>
-	<QA>Qatar</QA>
-	<RE>Réunion</RE>
-	<RO>Romania</RO>
-	<RU>Russia</RU>
-	<RW>Rwanda</RW>
-	<WS>Samoa</WS>
-	<SM>San Marino</SM>
-	<ST>São Tomé & Príncipe</ST>
-	<SA>Saudi Arabia</SA>
-	<SN>Senegal</SN>
-	<RS>Serbia</RS>
-	<SC>Seychelles</SC>
-	<SL>Sierra Leone</SL>
-	<SG>Singapore</SG>
-	<SX>Sint Maarten</SX>
-	<SK>Slovakia</SK>
-	<SI>Slovenia</SI>
-	<SB>Solomon Islands</SB>
-	<SO>Somalia</SO>
-	<ZA>South Africa</ZA>
-	<GS>South Georgia & South Sandwich Islands</GS>
-	<KR>South Korea</KR>
-	<SS>South Sudan</SS>
-	<ES>Spain</ES>
-	<LK>Sri Lanka</LK>
-	<BL>St. Barthélemy</BL>
-	<SH>St. Helena</SH>
-	<KN>St. Kitts & Nevis</KN>
-	<LC>St. Lucia</LC>
-	<MF>St. Martin</MF>
-	<PM>St. Pierre & Miquelon</PM>
-	<VC>St. Vincent & Grenadines</VC>
-	<SD>Sudan</SD>
-	<SR>Suriname</SR>
-	<SJ>Svalbard & Jan Mayen</SJ>
-	<SZ>Swaziland</SZ>
-	<SE>Sweden</SE>
-	<CH>Switzerland</CH>
-	<SY>Syria</SY>
-	<TW>Taiwan</TW>
-	<TJ>Tajikistan</TJ>
-	<TZ>Tanzania</TZ>
-	<TH>Thailand</TH>
-	<TL>Timor-Leste</TL>
-	<TG>Togo</TG>
-	<TK>Tokelau</TK>
-	<TO>Tonga</TO>
-	<TT>Trinidad & Tobago</TT>
-	<TA>Tristan da Cunha</TA>
-	<TN>Tunisia</TN>
-	<TR>Turkey</TR>
-	<TM>Turkmenistan</TM>
-	<TC>Turks & Caicos Islands</TC>
-	<TV>Tuvalu</TV>
-	<UM>U.S. Outlying Islands</UM>
-	<VI>U.S. Virgin Islands</VI>
-	<UG>Uganda</UG>
-	<UA>Ukraine</UA>
-	<AE>United Arab Emirates</AE>
-	<GB>United Kingdom</GB>
-	<UN>United Nations</UN>
-	<US>United States</US>
-	<UY>Uruguay</UY>
-	<UZ>Uzbekistan</UZ>
-	<VU>Vanuatu</VU>
-	<VA>Vatican City</VA>
-	<VE>Venezuela</VE>
-	<VN>Vietnam</VN>
-	<WF>Wallis & Futuna</WF>
-	<EH>Western Sahara</EH>
-	<YE>Yemen</YE>
-	<ZM>Zambia</ZM>
-	<ZW>Zimbabwe</ZW>
-</root>
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+	<RECORD>
+		<id>AF</id>
+		<name>Afghanistan</name>
+	</RECORD>
+	<RECORD>
+		<id>AX</id>
+		<name>Åland Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>AL</id>
+		<name>Albania</name>
+	</RECORD>
+	<RECORD>
+		<id>DZ</id>
+		<name>Algeria</name>
+	</RECORD>
+	<RECORD>
+		<id>AS</id>
+		<name>American Samoa</name>
+	</RECORD>
+	<RECORD>
+		<id>AD</id>
+		<name>Andorra</name>
+	</RECORD>
+	<RECORD>
+		<id>AO</id>
+		<name>Angola</name>
+	</RECORD>
+	<RECORD>
+		<id>AI</id>
+		<name>Anguilla</name>
+	</RECORD>
+	<RECORD>
+		<id>AQ</id>
+		<name>Antarctica</name>
+	</RECORD>
+	<RECORD>
+		<id>AG</id>
+		<name>Antigua &amp; Barbuda</name>
+	</RECORD>
+	<RECORD>
+		<id>AR</id>
+		<name>Argentina</name>
+	</RECORD>
+	<RECORD>
+		<id>AM</id>
+		<name>Armenia</name>
+	</RECORD>
+	<RECORD>
+		<id>AW</id>
+		<name>Aruba</name>
+	</RECORD>
+	<RECORD>
+		<id>AC</id>
+		<name>Ascension Island</name>
+	</RECORD>
+	<RECORD>
+		<id>AU</id>
+		<name>Australia</name>
+	</RECORD>
+	<RECORD>
+		<id>AT</id>
+		<name>Austria</name>
+	</RECORD>
+	<RECORD>
+		<id>AZ</id>
+		<name>Azerbaijan</name>
+	</RECORD>
+	<RECORD>
+		<id>BS</id>
+		<name>Bahamas</name>
+	</RECORD>
+	<RECORD>
+		<id>BH</id>
+		<name>Bahrain</name>
+	</RECORD>
+	<RECORD>
+		<id>BD</id>
+		<name>Bangladesh</name>
+	</RECORD>
+	<RECORD>
+		<id>BB</id>
+		<name>Barbados</name>
+	</RECORD>
+	<RECORD>
+		<id>BY</id>
+		<name>Belarus</name>
+	</RECORD>
+	<RECORD>
+		<id>BE</id>
+		<name>Belgium</name>
+	</RECORD>
+	<RECORD>
+		<id>BZ</id>
+		<name>Belize</name>
+	</RECORD>
+	<RECORD>
+		<id>BJ</id>
+		<name>Benin</name>
+	</RECORD>
+	<RECORD>
+		<id>BM</id>
+		<name>Bermuda</name>
+	</RECORD>
+	<RECORD>
+		<id>BT</id>
+		<name>Bhutan</name>
+	</RECORD>
+	<RECORD>
+		<id>BO</id>
+		<name>Bolivia</name>
+	</RECORD>
+	<RECORD>
+		<id>BA</id>
+		<name>Bosnia &amp; Herzegovina</name>
+	</RECORD>
+	<RECORD>
+		<id>BW</id>
+		<name>Botswana</name>
+	</RECORD>
+	<RECORD>
+		<id>BR</id>
+		<name>Brazil</name>
+	</RECORD>
+	<RECORD>
+		<id>IO</id>
+		<name>British Indian Ocean Territory</name>
+	</RECORD>
+	<RECORD>
+		<id>VG</id>
+		<name>British Virgin Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>BN</id>
+		<name>Brunei</name>
+	</RECORD>
+	<RECORD>
+		<id>BG</id>
+		<name>Bulgaria</name>
+	</RECORD>
+	<RECORD>
+		<id>BF</id>
+		<name>Burkina Faso</name>
+	</RECORD>
+	<RECORD>
+		<id>BI</id>
+		<name>Burundi</name>
+	</RECORD>
+	<RECORD>
+		<id>KH</id>
+		<name>Cambodia</name>
+	</RECORD>
+	<RECORD>
+		<id>CM</id>
+		<name>Cameroon</name>
+	</RECORD>
+	<RECORD>
+		<id>CA</id>
+		<name>Canada</name>
+	</RECORD>
+	<RECORD>
+		<id>IC</id>
+		<name>Canary Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>CV</id>
+		<name>Cape Verde</name>
+	</RECORD>
+	<RECORD>
+		<id>BQ</id>
+		<name>Caribbean Netherlands</name>
+	</RECORD>
+	<RECORD>
+		<id>KY</id>
+		<name>Cayman Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>CF</id>
+		<name>Central African Republic</name>
+	</RECORD>
+	<RECORD>
+		<id>EA</id>
+		<name>Ceuta &amp; Melilla</name>
+	</RECORD>
+	<RECORD>
+		<id>TD</id>
+		<name>Chad</name>
+	</RECORD>
+	<RECORD>
+		<id>CL</id>
+		<name>Chile</name>
+	</RECORD>
+	<RECORD>
+		<id>CN</id>
+		<name>China</name>
+	</RECORD>
+	<RECORD>
+		<id>CX</id>
+		<name>Christmas Island</name>
+	</RECORD>
+	<RECORD>
+		<id>CC</id>
+		<name>Cocos (Keeling) Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>CO</id>
+		<name>Colombia</name>
+	</RECORD>
+	<RECORD>
+		<id>KM</id>
+		<name>Comoros</name>
+	</RECORD>
+	<RECORD>
+		<id>CG</id>
+		<name>Congo - Brazzaville</name>
+	</RECORD>
+	<RECORD>
+		<id>CD</id>
+		<name>Congo - Kinshasa</name>
+	</RECORD>
+	<RECORD>
+		<id>CK</id>
+		<name>Cook Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>CR</id>
+		<name>Costa Rica</name>
+	</RECORD>
+	<RECORD>
+		<id>CI</id>
+		<name>Côte d’Ivoire</name>
+	</RECORD>
+	<RECORD>
+		<id>HR</id>
+		<name>Croatia</name>
+	</RECORD>
+	<RECORD>
+		<id>CU</id>
+		<name>Cuba</name>
+	</RECORD>
+	<RECORD>
+		<id>CW</id>
+		<name>Curaçao</name>
+	</RECORD>
+	<RECORD>
+		<id>CY</id>
+		<name>Cyprus</name>
+	</RECORD>
+	<RECORD>
+		<id>CZ</id>
+		<name>Czechia</name>
+	</RECORD>
+	<RECORD>
+		<id>DK</id>
+		<name>Denmark</name>
+	</RECORD>
+	<RECORD>
+		<id>DG</id>
+		<name>Diego Garcia</name>
+	</RECORD>
+	<RECORD>
+		<id>DJ</id>
+		<name>Djibouti</name>
+	</RECORD>
+	<RECORD>
+		<id>DM</id>
+		<name>Dominica</name>
+	</RECORD>
+	<RECORD>
+		<id>DO</id>
+		<name>Dominican Republic</name>
+	</RECORD>
+	<RECORD>
+		<id>EC</id>
+		<name>Ecuador</name>
+	</RECORD>
+	<RECORD>
+		<id>EG</id>
+		<name>Egypt</name>
+	</RECORD>
+	<RECORD>
+		<id>SV</id>
+		<name>El Salvador</name>
+	</RECORD>
+	<RECORD>
+		<id>GQ</id>
+		<name>Equatorial Guinea</name>
+	</RECORD>
+	<RECORD>
+		<id>ER</id>
+		<name>Eritrea</name>
+	</RECORD>
+	<RECORD>
+		<id>EE</id>
+		<name>Estonia</name>
+	</RECORD>
+	<RECORD>
+		<id>ET</id>
+		<name>Ethiopia</name>
+	</RECORD>
+	<RECORD>
+		<id>EZ</id>
+		<name>Eurozone</name>
+	</RECORD>
+	<RECORD>
+		<id>FK</id>
+		<name>Falkland Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>FO</id>
+		<name>Faroe Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>FJ</id>
+		<name>Fiji</name>
+	</RECORD>
+	<RECORD>
+		<id>FI</id>
+		<name>Finland</name>
+	</RECORD>
+	<RECORD>
+		<id>FR</id>
+		<name>France</name>
+	</RECORD>
+	<RECORD>
+		<id>GF</id>
+		<name>French Guiana</name>
+	</RECORD>
+	<RECORD>
+		<id>PF</id>
+		<name>French Polynesia</name>
+	</RECORD>
+	<RECORD>
+		<id>TF</id>
+		<name>French Southern Territories</name>
+	</RECORD>
+	<RECORD>
+		<id>GA</id>
+		<name>Gabon</name>
+	</RECORD>
+	<RECORD>
+		<id>GM</id>
+		<name>Gambia</name>
+	</RECORD>
+	<RECORD>
+		<id>GE</id>
+		<name>Georgia</name>
+	</RECORD>
+	<RECORD>
+		<id>DE</id>
+		<name>Germany</name>
+	</RECORD>
+	<RECORD>
+		<id>GH</id>
+		<name>Ghana</name>
+	</RECORD>
+	<RECORD>
+		<id>GI</id>
+		<name>Gibraltar</name>
+	</RECORD>
+	<RECORD>
+		<id>GR</id>
+		<name>Greece</name>
+	</RECORD>
+	<RECORD>
+		<id>GL</id>
+		<name>Greenland</name>
+	</RECORD>
+	<RECORD>
+		<id>GD</id>
+		<name>Grenada</name>
+	</RECORD>
+	<RECORD>
+		<id>GP</id>
+		<name>Guadeloupe</name>
+	</RECORD>
+	<RECORD>
+		<id>GU</id>
+		<name>Guam</name>
+	</RECORD>
+	<RECORD>
+		<id>GT</id>
+		<name>Guatemala</name>
+	</RECORD>
+	<RECORD>
+		<id>GG</id>
+		<name>Guernsey</name>
+	</RECORD>
+	<RECORD>
+		<id>GN</id>
+		<name>Guinea</name>
+	</RECORD>
+	<RECORD>
+		<id>GW</id>
+		<name>Guinea-Bissau</name>
+	</RECORD>
+	<RECORD>
+		<id>GY</id>
+		<name>Guyana</name>
+	</RECORD>
+	<RECORD>
+		<id>HT</id>
+		<name>Haiti</name>
+	</RECORD>
+	<RECORD>
+		<id>HN</id>
+		<name>Honduras</name>
+	</RECORD>
+	<RECORD>
+		<id>HK</id>
+		<name>Hong Kong SAR China</name>
+	</RECORD>
+	<RECORD>
+		<id>HU</id>
+		<name>Hungary</name>
+	</RECORD>
+	<RECORD>
+		<id>IS</id>
+		<name>Iceland</name>
+	</RECORD>
+	<RECORD>
+		<id>IN</id>
+		<name>India</name>
+	</RECORD>
+	<RECORD>
+		<id>ID</id>
+		<name>Indonesia</name>
+	</RECORD>
+	<RECORD>
+		<id>IR</id>
+		<name>Iran</name>
+	</RECORD>
+	<RECORD>
+		<id>IQ</id>
+		<name>Iraq</name>
+	</RECORD>
+	<RECORD>
+		<id>IE</id>
+		<name>Ireland</name>
+	</RECORD>
+	<RECORD>
+		<id>IM</id>
+		<name>Isle of Man</name>
+	</RECORD>
+	<RECORD>
+		<id>IL</id>
+		<name>Israel</name>
+	</RECORD>
+	<RECORD>
+		<id>IT</id>
+		<name>Italy</name>
+	</RECORD>
+	<RECORD>
+		<id>JM</id>
+		<name>Jamaica</name>
+	</RECORD>
+	<RECORD>
+		<id>JP</id>
+		<name>Japan</name>
+	</RECORD>
+	<RECORD>
+		<id>JE</id>
+		<name>Jersey</name>
+	</RECORD>
+	<RECORD>
+		<id>JO</id>
+		<name>Jordan</name>
+	</RECORD>
+	<RECORD>
+		<id>KZ</id>
+		<name>Kazakhstan</name>
+	</RECORD>
+	<RECORD>
+		<id>KE</id>
+		<name>Kenya</name>
+	</RECORD>
+	<RECORD>
+		<id>KI</id>
+		<name>Kiribati</name>
+	</RECORD>
+	<RECORD>
+		<id>XK</id>
+		<name>Kosovo</name>
+	</RECORD>
+	<RECORD>
+		<id>KW</id>
+		<name>Kuwait</name>
+	</RECORD>
+	<RECORD>
+		<id>KG</id>
+		<name>Kyrgyzstan</name>
+	</RECORD>
+	<RECORD>
+		<id>LA</id>
+		<name>Laos</name>
+	</RECORD>
+	<RECORD>
+		<id>LV</id>
+		<name>Latvia</name>
+	</RECORD>
+	<RECORD>
+		<id>LB</id>
+		<name>Lebanon</name>
+	</RECORD>
+	<RECORD>
+		<id>LS</id>
+		<name>Lesotho</name>
+	</RECORD>
+	<RECORD>
+		<id>LR</id>
+		<name>Liberia</name>
+	</RECORD>
+	<RECORD>
+		<id>LY</id>
+		<name>Libya</name>
+	</RECORD>
+	<RECORD>
+		<id>LI</id>
+		<name>Liechtenstein</name>
+	</RECORD>
+	<RECORD>
+		<id>LT</id>
+		<name>Lithuania</name>
+	</RECORD>
+	<RECORD>
+		<id>LU</id>
+		<name>Luxembourg</name>
+	</RECORD>
+	<RECORD>
+		<id>MO</id>
+		<name>Macau SAR China</name>
+	</RECORD>
+	<RECORD>
+		<id>MK</id>
+		<name>Macedonia</name>
+	</RECORD>
+	<RECORD>
+		<id>MG</id>
+		<name>Madagascar</name>
+	</RECORD>
+	<RECORD>
+		<id>MW</id>
+		<name>Malawi</name>
+	</RECORD>
+	<RECORD>
+		<id>MY</id>
+		<name>Malaysia</name>
+	</RECORD>
+	<RECORD>
+		<id>MV</id>
+		<name>Maldives</name>
+	</RECORD>
+	<RECORD>
+		<id>ML</id>
+		<name>Mali</name>
+	</RECORD>
+	<RECORD>
+		<id>MT</id>
+		<name>Malta</name>
+	</RECORD>
+	<RECORD>
+		<id>MH</id>
+		<name>Marshall Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>MQ</id>
+		<name>Martinique</name>
+	</RECORD>
+	<RECORD>
+		<id>MR</id>
+		<name>Mauritania</name>
+	</RECORD>
+	<RECORD>
+		<id>MU</id>
+		<name>Mauritius</name>
+	</RECORD>
+	<RECORD>
+		<id>YT</id>
+		<name>Mayotte</name>
+	</RECORD>
+	<RECORD>
+		<id>MX</id>
+		<name>Mexico</name>
+	</RECORD>
+	<RECORD>
+		<id>FM</id>
+		<name>Micronesia</name>
+	</RECORD>
+	<RECORD>
+		<id>MD</id>
+		<name>Moldova</name>
+	</RECORD>
+	<RECORD>
+		<id>MC</id>
+		<name>Monaco</name>
+	</RECORD>
+	<RECORD>
+		<id>MN</id>
+		<name>Mongolia</name>
+	</RECORD>
+	<RECORD>
+		<id>ME</id>
+		<name>Montenegro</name>
+	</RECORD>
+	<RECORD>
+		<id>MS</id>
+		<name>Montserrat</name>
+	</RECORD>
+	<RECORD>
+		<id>MA</id>
+		<name>Morocco</name>
+	</RECORD>
+	<RECORD>
+		<id>MZ</id>
+		<name>Mozambique</name>
+	</RECORD>
+	<RECORD>
+		<id>MM</id>
+		<name>Myanmar (Burma)</name>
+	</RECORD>
+	<RECORD>
+		<id>NA</id>
+		<name>Namibia</name>
+	</RECORD>
+	<RECORD>
+		<id>NR</id>
+		<name>Nauru</name>
+	</RECORD>
+	<RECORD>
+		<id>NP</id>
+		<name>Nepal</name>
+	</RECORD>
+	<RECORD>
+		<id>NL</id>
+		<name>Netherlands</name>
+	</RECORD>
+	<RECORD>
+		<id>NC</id>
+		<name>New Caledonia</name>
+	</RECORD>
+	<RECORD>
+		<id>NZ</id>
+		<name>New Zealand</name>
+	</RECORD>
+	<RECORD>
+		<id>NI</id>
+		<name>Nicaragua</name>
+	</RECORD>
+	<RECORD>
+		<id>NE</id>
+		<name>Niger</name>
+	</RECORD>
+	<RECORD>
+		<id>NG</id>
+		<name>Nigeria</name>
+	</RECORD>
+	<RECORD>
+		<id>NU</id>
+		<name>Niue</name>
+	</RECORD>
+	<RECORD>
+		<id>NF</id>
+		<name>Norfolk Island</name>
+	</RECORD>
+	<RECORD>
+		<id>KP</id>
+		<name>North Korea</name>
+	</RECORD>
+	<RECORD>
+		<id>MP</id>
+		<name>Northern Mariana Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>NO</id>
+		<name>Norway</name>
+	</RECORD>
+	<RECORD>
+		<id>OM</id>
+		<name>Oman</name>
+	</RECORD>
+	<RECORD>
+		<id>PK</id>
+		<name>Pakistan</name>
+	</RECORD>
+	<RECORD>
+		<id>PW</id>
+		<name>Palau</name>
+	</RECORD>
+	<RECORD>
+		<id>PS</id>
+		<name>Palestinian Territories</name>
+	</RECORD>
+	<RECORD>
+		<id>PA</id>
+		<name>Panama</name>
+	</RECORD>
+	<RECORD>
+		<id>PG</id>
+		<name>Papua New Guinea</name>
+	</RECORD>
+	<RECORD>
+		<id>PY</id>
+		<name>Paraguay</name>
+	</RECORD>
+	<RECORD>
+		<id>PE</id>
+		<name>Peru</name>
+	</RECORD>
+	<RECORD>
+		<id>PH</id>
+		<name>Philippines</name>
+	</RECORD>
+	<RECORD>
+		<id>PN</id>
+		<name>Pitcairn Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>PL</id>
+		<name>Poland</name>
+	</RECORD>
+	<RECORD>
+		<id>PT</id>
+		<name>Portugal</name>
+	</RECORD>
+	<RECORD>
+		<id>PR</id>
+		<name>Puerto Rico</name>
+	</RECORD>
+	<RECORD>
+		<id>QA</id>
+		<name>Qatar</name>
+	</RECORD>
+	<RECORD>
+		<id>RE</id>
+		<name>Réunion</name>
+	</RECORD>
+	<RECORD>
+		<id>RO</id>
+		<name>Romania</name>
+	</RECORD>
+	<RECORD>
+		<id>RU</id>
+		<name>Russia</name>
+	</RECORD>
+	<RECORD>
+		<id>RW</id>
+		<name>Rwanda</name>
+	</RECORD>
+	<RECORD>
+		<id>WS</id>
+		<name>Samoa</name>
+	</RECORD>
+	<RECORD>
+		<id>SM</id>
+		<name>San Marino</name>
+	</RECORD>
+	<RECORD>
+		<id>ST</id>
+		<name>São Tomé &amp; Príncipe</name>
+	</RECORD>
+	<RECORD>
+		<id>SA</id>
+		<name>Saudi Arabia</name>
+	</RECORD>
+	<RECORD>
+		<id>SN</id>
+		<name>Senegal</name>
+	</RECORD>
+	<RECORD>
+		<id>RS</id>
+		<name>Serbia</name>
+	</RECORD>
+	<RECORD>
+		<id>SC</id>
+		<name>Seychelles</name>
+	</RECORD>
+	<RECORD>
+		<id>SL</id>
+		<name>Sierra Leone</name>
+	</RECORD>
+	<RECORD>
+		<id>SG</id>
+		<name>Singapore</name>
+	</RECORD>
+	<RECORD>
+		<id>SX</id>
+		<name>Sint Maarten</name>
+	</RECORD>
+	<RECORD>
+		<id>SK</id>
+		<name>Slovakia</name>
+	</RECORD>
+	<RECORD>
+		<id>SI</id>
+		<name>Slovenia</name>
+	</RECORD>
+	<RECORD>
+		<id>SB</id>
+		<name>Solomon Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>SO</id>
+		<name>Somalia</name>
+	</RECORD>
+	<RECORD>
+		<id>ZA</id>
+		<name>South Africa</name>
+	</RECORD>
+	<RECORD>
+		<id>GS</id>
+		<name>South Georgia &amp; South Sandwich Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>KR</id>
+		<name>South Korea</name>
+	</RECORD>
+	<RECORD>
+		<id>SS</id>
+		<name>South Sudan</name>
+	</RECORD>
+	<RECORD>
+		<id>ES</id>
+		<name>Spain</name>
+	</RECORD>
+	<RECORD>
+		<id>LK</id>
+		<name>Sri Lanka</name>
+	</RECORD>
+	<RECORD>
+		<id>BL</id>
+		<name>St. Barthélemy</name>
+	</RECORD>
+	<RECORD>
+		<id>SH</id>
+		<name>St. Helena</name>
+	</RECORD>
+	<RECORD>
+		<id>KN</id>
+		<name>St. Kitts &amp; Nevis</name>
+	</RECORD>
+	<RECORD>
+		<id>LC</id>
+		<name>St. Lucia</name>
+	</RECORD>
+	<RECORD>
+		<id>MF</id>
+		<name>St. Martin</name>
+	</RECORD>
+	<RECORD>
+		<id>PM</id>
+		<name>St. Pierre &amp; Miquelon</name>
+	</RECORD>
+	<RECORD>
+		<id>VC</id>
+		<name>St. Vincent &amp; Grenadines</name>
+	</RECORD>
+	<RECORD>
+		<id>SD</id>
+		<name>Sudan</name>
+	</RECORD>
+	<RECORD>
+		<id>SR</id>
+		<name>Suriname</name>
+	</RECORD>
+	<RECORD>
+		<id>SJ</id>
+		<name>Svalbard &amp; Jan Mayen</name>
+	</RECORD>
+	<RECORD>
+		<id>SZ</id>
+		<name>Swaziland</name>
+	</RECORD>
+	<RECORD>
+		<id>SE</id>
+		<name>Sweden</name>
+	</RECORD>
+	<RECORD>
+		<id>CH</id>
+		<name>Switzerland</name>
+	</RECORD>
+	<RECORD>
+		<id>SY</id>
+		<name>Syria</name>
+	</RECORD>
+	<RECORD>
+		<id>TW</id>
+		<name>Taiwan</name>
+	</RECORD>
+	<RECORD>
+		<id>TJ</id>
+		<name>Tajikistan</name>
+	</RECORD>
+	<RECORD>
+		<id>TZ</id>
+		<name>Tanzania</name>
+	</RECORD>
+	<RECORD>
+		<id>TH</id>
+		<name>Thailand</name>
+	</RECORD>
+	<RECORD>
+		<id>TL</id>
+		<name>Timor-Leste</name>
+	</RECORD>
+	<RECORD>
+		<id>TG</id>
+		<name>Togo</name>
+	</RECORD>
+	<RECORD>
+		<id>TK</id>
+		<name>Tokelau</name>
+	</RECORD>
+	<RECORD>
+		<id>TO</id>
+		<name>Tonga</name>
+	</RECORD>
+	<RECORD>
+		<id>TT</id>
+		<name>Trinidad &amp; Tobago</name>
+	</RECORD>
+	<RECORD>
+		<id>TA</id>
+		<name>Tristan da Cunha</name>
+	</RECORD>
+	<RECORD>
+		<id>TN</id>
+		<name>Tunisia</name>
+	</RECORD>
+	<RECORD>
+		<id>TR</id>
+		<name>Turkey</name>
+	</RECORD>
+	<RECORD>
+		<id>TM</id>
+		<name>Turkmenistan</name>
+	</RECORD>
+	<RECORD>
+		<id>TC</id>
+		<name>Turks &amp; Caicos Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>TV</id>
+		<name>Tuvalu</name>
+	</RECORD>
+	<RECORD>
+		<id>UM</id>
+		<name>U.S. Outlying Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>VI</id>
+		<name>U.S. Virgin Islands</name>
+	</RECORD>
+	<RECORD>
+		<id>UG</id>
+		<name>Uganda</name>
+	</RECORD>
+	<RECORD>
+		<id>UA</id>
+		<name>Ukraine</name>
+	</RECORD>
+	<RECORD>
+		<id>AE</id>
+		<name>United Arab Emirates</name>
+	</RECORD>
+	<RECORD>
+		<id>GB</id>
+		<name>United Kingdom</name>
+	</RECORD>
+	<RECORD>
+		<id>UN</id>
+		<name>United Nations</name>
+	</RECORD>
+	<RECORD>
+		<id>US</id>
+		<name>United States</name>
+	</RECORD>
+	<RECORD>
+		<id>UY</id>
+		<name>Uruguay</name>
+	</RECORD>
+	<RECORD>
+		<id>UZ</id>
+		<name>Uzbekistan</name>
+	</RECORD>
+	<RECORD>
+		<id>VU</id>
+		<name>Vanuatu</name>
+	</RECORD>
+	<RECORD>
+		<id>VA</id>
+		<name>Vatican City</name>
+	</RECORD>
+	<RECORD>
+		<id>VE</id>
+		<name>Venezuela</name>
+	</RECORD>
+	<RECORD>
+		<id>VN</id>
+		<name>Vietnam</name>
+	</RECORD>
+	<RECORD>
+		<id>WF</id>
+		<name>Wallis &amp; Futuna</name>
+	</RECORD>
+	<RECORD>
+		<id>EH</id>
+		<name>Western Sahara</name>
+	</RECORD>
+	<RECORD>
+		<id>YE</id>
+		<name>Yemen</name>
+	</RECORD>
+	<RECORD>
+		<id>ZM</id>
+		<name>Zambia</name>
+	</RECORD>
+	<RECORD>
+		<id>ZW</id>
+		<name>Zimbabwe</name>
+	</RECORD>
+</RECORDS>
